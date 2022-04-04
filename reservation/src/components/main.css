@@ -1,0 +1,22 @@
+.fieldset{
+  background-color: pink;
+}
+.col-6{
+    margin-bottom: 40px;
+}
+label{
+   font-weight: 700;
+}
+button{
+    height: 50px;
+    width: 100px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0px 5px 4px black;
+    border-radius: 50px;
+    font-weight: bold;
+}
+button:active{
+    box-shadow: 0px 0px 0px;
+    transform: translateY(5px);
+}
