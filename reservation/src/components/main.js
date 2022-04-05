@@ -23,6 +23,7 @@ class Main extends Component {
     onsubmit = () => {
         console.log(this.state);
         alert("Reservation submitted successfully");
+        alert("check your console");
     }
     render() {
         return (
