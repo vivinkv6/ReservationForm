@@ -65,7 +65,7 @@ class Main extends Component {
 <label >Any other Requirements You Needed:</label>
 </div>
 <div className='col-6'>
-<textarea name="" id="" cols="40" rows="5"></textarea>
+<textarea name="" id="" cols="auto" rows="5" className='form'></textarea>
 </div>
 
 <br />

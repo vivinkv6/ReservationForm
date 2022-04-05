@@ -1,6 +1,9 @@
-h1{
-    color: red;
-margin-bottom: 50px;
-font-weight: 700;
-
+h1 {
+    color: rgb(51, 0, 235);
+    margin-bottom: 50px;
+    padding-top: 30px;
+    font-weight: 900;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    text-shadow: 6px 0px 3px black;
 }
