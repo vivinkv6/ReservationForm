@@ -3,6 +3,8 @@
  background-image: url('https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
  background-size: 100% 100%;
  background-repeat: no-repeat;
+ width: 100%;
+ height: auto;
 }
 .col-6{
     margin-bottom: 30px;
@@ -13,7 +15,7 @@ label{
    
 }
 label:hover{
-    color: rgb(82, 95, 149);
+    color: rgb(255, 255, 255);
 }
 button{
     height: 50px;
@@ -34,3 +36,5 @@ button:active{
     background-color: rgb(6, 6, 83);
     color: gray;
 }
+
+
